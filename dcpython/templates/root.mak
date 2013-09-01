@@ -49,11 +49,11 @@
       <br />
       <br />
 
-<div class="jumbotron">
-<h1>
-We promote and support the use of Python software in Washington, DC, USA and surrounding areas.
-</h1>
-</div>
+      <div class="jumbotron pitch">
+        <h1>
+            We promote and support the use of Python software in Washington, DC, USA and surrounding areas.
+        </h1>
+      </div>
 
       <div class="footer">
         <p class="pull-left">&copy; ZPUGDC, Inc 2008-2013. All rights reserved.</p>
