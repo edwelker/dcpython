@@ -51,8 +51,7 @@
 
       <div class="row">
         <div class="col-md-4 mission">
-            <h1>Mission</h1>
-            <p class="lead">We promote and support the use of Python software in Washington, DC, USA and surrounding areas.</p>
+            <h1>We promote and support the use of Python software in Washington, DC, USA and surrounding areas.</h1>
         </div>
       </div>
 
