@@ -120,11 +120,11 @@
     <div class="container">
 
       <!-- Fork me on GitHub -->
-      <a href="https://github.com/ACLARKNET/aclarknet"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
+      <a href="https://github.com/DCPython/dcpython"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
 
       <div class="masthead">
 
-        <h3 class="muted"><a href="/">ACLARK.NET, LLC</a></h3>
+        <h3 class="muted"><a href="/">DC Python</a></h3>
 
         <div class="navbar">
           <div class="navbar-inner">
