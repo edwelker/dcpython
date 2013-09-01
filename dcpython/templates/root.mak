@@ -17,7 +17,7 @@
     <link href="/static/justified-nav.css" rel="stylesheet">
     <style type="text/css">
       body {
-        background: url(static/highres_255194332.jpeg) center top #24261A;
+        background: url(static/highres_255194332.jpeg) center top no-repeat #24261A;
       }
       <%block name="style">
       </%block>
