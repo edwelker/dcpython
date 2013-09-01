@@ -15,11 +15,11 @@
     padding: 1em;
 }
 
-.jumbotron {
+.mission {
     font-size: 21px;
     font-weight: 200;
     line-height: 30px;
-    background-color: #F5F5F5 !important;
+    background-color: #F5F5F5; 
     border: 1px solid rgba(0, 0, 0, 0.15);
     border-radius: 4px 4px 4px 4px;
     margin: 0 0 10px;
