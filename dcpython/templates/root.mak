@@ -19,100 +19,9 @@
         padding-top: 20px;
         padding-bottom: 60px;
       }
-
-      /* Custom container */
-      .container {
-        margin: 0 auto;
-        max-width: 1000px;
-      }
-      .container > hr {
-        margin: 60px 0;
-      }
-
-      /* Main marketing message and sign up button */
-      .jumbotron {
-        margin: 80px 0;
-        text-align: center;
-      }
-      .jumbotron h1 {
-        font-size: 80px;
-        line-height: 1;
-      }
-      .jumbotron .lead {
-        font-size: 24px;
-        line-height: 1.25;
-        margin-right: 85px;
-        margin-top: 2em;
-        margin-bottom: 2em;
-      }
-      .jumbotron .btn {
-        font-size: 21px;
-        padding: 14px 24px;
-      }
-
-      /* Supporting marketing content */
-      .marketing {
-        margin: 60px 0;
-      }
-      .marketing p + h4 {
-        margin-top: 28px;
-      }
-
-      /* Customize the navbar links to be fill the entire space of the .navbar */
-      .navbar .navbar-inner {
-        padding: 0;
-      }
-      .navbar .nav {
-        margin: 0;
-        display: table;
-        width: 100%;
-      }
-      .navbar .nav li {
-        display: table-cell;
-        width: 1%;
-        float: none;
-      }
-      .navbar .nav li a {
-        font-weight: bold;
-        text-align: center;
-        border-left: 1px solid rgba(255,255,255,.75);
-        border-right: 1px solid rgba(0,0,0,.1);
-      }
-      .navbar .nav li:first-child a {
-        border-left: 0;
-        border-radius: 3px 0 0 3px;
-      }
-      .navbar .nav li:last-child a {
-        border-right: 0;
-        border-radius: 0 3px 3px 0;
-      }
-      .row-fluid {
-        background: #f9f9f9;
-        border-radius: 3px;
-      }
-      .span4, .span12 {
-        padding: 14px 24px;
-      }
-      .footer {
-        color: #f9f9f9;
-      }
       <%block name="style">
       </%block>
     </style>
-    <link href="http://twitter.github.io/bootstrap/assets/css/bootstrap-responsive.css" rel="stylesheet">
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://twitter.github.io/bootstrap/assets/js/html5shiv.js"></script>
-    <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://twitter.github.io/bootstrap/assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://twitter.github.io/bootstrap/assets/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://twitter.github.io/bootstrap/assets/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="http://twitter.github.io/bootstrap/assets/ico/apple-touch-icon-57-precomposed.png">
-                                   <link rel="shortcut icon" href="/static/favicon.ico">
-
   </head>
 
   <body>
@@ -135,14 +44,27 @@
                 </%block>
               </ul>
 
-              <span class="col-md-4">
+              <div class="row">
+                <span class="col-md-4">
 
-                Compellingly network corporate expertise before synergistic e-commerce. Dynamically revolutionize innovative technologies rather than sticky e-markets. Enthusiastically myocardinate cross functional customer service and standardized meta-services. 
+Appropriately fashion interoperable e-services whereas market positioning benefits. Conveniently innovate intermandated data and value-added innovation. Seamlessly build professional e-services before excellent process improvements. 
 
-Objectively drive impactful internal or "organic" sources before holistic niches. Collaboratively incubate process-centric strategic theme areas and highly efficient information. Seamlessly drive professional schemas before tactical outsourcing.
+Quickly engage frictionless relationships vis-a-vis effective customer service. Compellingly simplify team driven scenarios through quality e-commerce. Energistically productize professional benefits via revolutionary convergence. 
 
-              </span>
+Uniquely deploy clicks-and-mortar best practices whereas orthogonal ideas. Uniquely impact parallel results vis-a-vis sticky opportunities. Completely network global applications for distributed niche markets. 
 
+Uniquely maintain cross-unit synergy for virtual process improvements. Assertively benchmark one-to-one users for future-proof results. Authoritatively build turnkey applications with leading-edge web-readiness. 
+
+Monotonectally unleash granular materials without economically sound e-business. Professionally harness client-centered strategic theme areas through tactical portals. Quickly pursue team building e-services whereas integrated technologies. 
+
+Proactively coordinate sticky leadership skills for orthogonal schemas. Synergistically aggregate economically sound scenarios with high-payoff markets. Proactively unleash client-focused networks after user friendly methods of empowerment. 
+
+Dynamically synthesize extensible information rather than backward-compatible total linkage. Synergistically strategize revolutionary niches vis-a-vis holistic scenarios. Seamlessly monetize front-end ROI whereas mission-critical supply chains. 
+
+Rapidiously leverage existing effective outsourcing before intermandated expertise. Uniquely parallel task market positioning relationships rather than collaborative platforms. Authoritatively whiteboard maintainable strategic theme areas whereas frictionless alignments.
+
+                </span>
+              </div>
 
             </div>
           </div>
