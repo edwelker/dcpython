@@ -35,3 +35,7 @@ textarea {
     border-top: none;
     padding-top: 0px;
 }
+
+.pitch {
+    background: white;
+}
