@@ -34,19 +34,20 @@
 
       <div class="masthead">
 
-        <h3 class="muted"><a href="/">DC Python</a></h3>
+        <h3 class="text-muted"><a href="/">DC Python</a></h3>
 
-        <div class="navbar">
-          <div class="navbar-inner">
-            <div class="container">
-              <ul class="nav">
-                <%block name="nav">
-                <li class="active"><a href="#">Home</a></li>
-                </%block>
-              </ul>
+        <ul class="nav nav-justified">
+          <li class="active"><a href="/">Home</a></li>
+          <li><a href="#">Projects</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Downloads</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
 
-              <div class="row">
-                <div class="col-lg-4 pitch">
+      <div class="row">
+        <div class="col-lg-4 pitch">
 
                 <h2>Heading</h2>
 
@@ -68,12 +69,7 @@ Dynamically synthesize extensible information rather than backward-compatible to
 Rapidiously leverage existing effective outsourcing before intermandated expertise. Uniquely parallel task market positioning relationships rather than collaborative platforms. Authoritatively whiteboard maintainable strategic theme areas whereas frictionless alignments.
                 </p>
 
-                </div>
-              </div>
-
-            </div>
-          </div>
-        </div><!-- /.navbar -->
+        </div>
       </div>
 
       <hr>
