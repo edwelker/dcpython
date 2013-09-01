@@ -47,10 +47,11 @@
       </div>
 
       <br />
+      <br />
 
       <div class="row">
 
-        <div class="col-lg-4 pitch">
+        <div class="col-lg-6 pitch">
 
                 <h2>Heading</h2>
 
