@@ -132,48 +132,12 @@
               <ul class="nav">
                 <%block name="nav">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="/clients">Clients</a></li>
-                <li><a href="/services">Services</a></li>
-                <li><a href="/team">Team</a></li>
-                <li><a href="/testimonials">Testimonials</a></li>
-                <li><a href="/contact">Contact</a></li>
                 </%block>
               </ul>
             </div>
           </div>
         </div><!-- /.navbar -->
       </div>
-
-      <!-- Jumbotron -->
-      <%block name="jumbotron">
-      <div class="jumbotron">
-        <h1>We know Python.<br />We know open source.</h1>
-        <p class="lead">Create professional web services for your business efficiently, effectively and economically with open source Python software. We&apos;ll show you how&hellip;</p>
-
-        <a class="btn btn-large btn-success" href="/contact">Get started today</a>
-      </div>
-
-      <hr>
-
-      <!-- Example row of columns -->
-      <div class="row-fluid"> 
-        <div class="span4"> 
-          <h2>Team</h2>
-          <p><i class="icon-group icon-2x pull-left"></i>Our team offers extensive experience in the development, deployment and maintenance of Python-based web applications. Please review our services, team, and clients sections for a summary of our experience and qualifications.</p>
-          <p><a class="btn" href="/team">View details &raquo;</a></p>
-        </div>
-        <div class="span4">
-          <h2>Community</h2>
-          <p><i class="icon-group icon-2x pull-left"></i>In 2008, we created a Maryland 501(c)(3) non-profit organization to expand our outreach and service to the Python community in Washington, DC USA. One of our most significant contributions via this organization is the hosting of Plone Conference 2008.</p>
-          <p><a class="btn" href="http://dcpython.org">View details &raquo;</a></p>
-        </div>
-        <div class="span4">
-          <h2>Location</h2>
-          <p><i class="icon-globe icon-2x pull-left"></i>We are located in Bethesda, MD, a suburb of Washington, DC, USA. We service a global community of individuals and organizations and are always eager and available to help.</p>
-          <p><a class="btn" href="/contact">View details &raquo;</a></p>
-        </div>
-      </div>
-      </%block>
 
       <hr>
 
