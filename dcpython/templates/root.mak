@@ -53,24 +53,12 @@
 
         <div class="col-lg-6 pitch">
 
-                <h2>Heading</h2>
+                <h2>Mission</h2>
 
                 <p>
-Appropriately fashion interoperable e-services whereas market positioning benefits. Conveniently innovate intermandated data and value-added innovation. Seamlessly build professional e-services before excellent process improvements. 
 
-Quickly engage frictionless relationships vis-a-vis effective customer service. Compellingly simplify team driven scenarios through quality e-commerce. Energistically productize professional benefits via revolutionary convergence. 
+                    We promote and support the use of Python software in Washington, DC, USA and surrounding areas.
 
-Uniquely deploy clicks-and-mortar best practices whereas orthogonal ideas. Uniquely impact parallel results vis-a-vis sticky opportunities. Completely network global applications for distributed niche markets. 
-
-Uniquely maintain cross-unit synergy for virtual process improvements. Assertively benchmark one-to-one users for future-proof results. Authoritatively build turnkey applications with leading-edge web-readiness. 
-
-Monotonectally unleash granular materials without economically sound e-business. Professionally harness client-centered strategic theme areas through tactical portals. Quickly pursue team building e-services whereas integrated technologies. 
-
-Proactively coordinate sticky leadership skills for orthogonal schemas. Synergistically aggregate economically sound scenarios with high-payoff markets. Proactively unleash client-focused networks after user friendly methods of empowerment. 
-
-Dynamically synthesize extensible information rather than backward-compatible total linkage. Synergistically strategize revolutionary niches vis-a-vis holistic scenarios. Seamlessly monetize front-end ROI whereas mission-critical supply chains. 
-
-Rapidiously leverage existing effective outsourcing before intermandated expertise. Uniquely parallel task market positioning relationships rather than collaborative platforms. Authoritatively whiteboard maintainable strategic theme areas whereas frictionless alignments.
                 </p>
 
         </div>
