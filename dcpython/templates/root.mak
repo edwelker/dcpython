@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
     <link href="/static/dcpython.css" rel="stylesheet">
     <link href="/static/font-awesome.css" rel="stylesheet">
+    <link href="/static/justified-nav.css" rel="stylesheet">
     <style type="text/css">
       body {
         background: url(static/robert-dcpython.jpg) center top no-repeat #24261A;
