@@ -28,9 +28,6 @@
 
     <div class="container">
 
-      <!-- Fork me on GitHub -->
-      <a href="https://github.com/DCPython/dcpython"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
-
       <div class="masthead">
 
         <h3 class="text-muted"><a href="/">DC Python</a></h3>
@@ -50,17 +47,10 @@
       <br />
 
       <div class="row">
-          <div class="col-md-offset-1 col-md-4" style="background: #24261A; color: #e5e5e5; border-radius: 4px">
+          <div class="col-md-offset-1 col-md-4" style="background: #24261A; color: #e5e5e5; border-radius: 4px; margin-bottom: 20em;">
                 <h1>We promote and support the use of Python software in Washington, DC, USA and surrounding areas.</h1>
           </div>
       </div>
-
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
 
       <div class="footer">
         <p class="pull-left">&copy; ZPUGDC, Inc 2008-2013. All rights reserved.</p>
@@ -75,6 +65,11 @@
 
 <a href="https://twitter.com/dcpython" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @dcpython</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<br />
+
+<iframe src="http://ghbtns.com/github-btn.html?user=dcpython&repo=dcpython&type=fork"
+  allowtransparency="true" frameborder="0" scrolling="0" width="53" height="20"></iframe>
 
         </p>
 
