@@ -45,8 +45,11 @@
               </ul>
 
               <div class="row">
-                <span class="col-md-4">
+                <div class="col-lg-4">
 
+                <h2>Heading</h2>
+
+                <p>
 Appropriately fashion interoperable e-services whereas market positioning benefits. Conveniently innovate intermandated data and value-added innovation. Seamlessly build professional e-services before excellent process improvements. 
 
 Quickly engage frictionless relationships vis-a-vis effective customer service. Compellingly simplify team driven scenarios through quality e-commerce. Energistically productize professional benefits via revolutionary convergence. 
@@ -62,8 +65,9 @@ Proactively coordinate sticky leadership skills for orthogonal schemas. Synergis
 Dynamically synthesize extensible information rather than backward-compatible total linkage. Synergistically strategize revolutionary niches vis-a-vis holistic scenarios. Seamlessly monetize front-end ROI whereas mission-critical supply chains. 
 
 Rapidiously leverage existing effective outsourcing before intermandated expertise. Uniquely parallel task market positioning relationships rather than collaborative platforms. Authoritatively whiteboard maintainable strategic theme areas whereas frictionless alignments.
+                </p>
 
-                </span>
+                </div>
               </div>
 
             </div>
