@@ -10,8 +10,8 @@
     <meta name="author" content="">
 
     <!-- Le styles -->
-    <link rel="stylesheet" href="http://twbs.github.io/bootstrap/2.3.2/assets/css/bootstrap.css">
-    <link href="/static/aclarknet.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+    <link href="/static/dcpython.css" rel="stylesheet">
     <link href="/static/font-awesome.css" rel="stylesheet">
     <style type="text/css">
       body {
@@ -201,7 +201,6 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="http://code.jquery.com/jquery.js"></script>
-    <script src="http://twbs.github.io/bootstrap/2.3.2/assets/js/bootstrap.min.js"></script>
-
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
   </body>
 </html>
