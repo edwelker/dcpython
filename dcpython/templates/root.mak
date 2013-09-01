@@ -11,14 +11,13 @@
 
     <!-- Le styles -->
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css">
     <link href="/static/dcpython.css" rel="stylesheet">
     <link href="/static/font-awesome.css" rel="stylesheet">
     <link href="/static/justified-nav.css" rel="stylesheet">
     <style type="text/css">
       body {
-        background: url(static/highres_255194332.jpeg) center top no-repeat #24261A;
-        padding-top: 20px;
-        padding-bottom: 60px;
+        background: url(static/highres_255194332.jpeg) center top #24261A;
       }
       <%block name="style">
       </%block>
@@ -48,11 +47,12 @@
 
       <br />
       <br />
+      <br />
 
       <div class="row">
-        <div class="col-md-4 mission">
-            <h1>We promote and support the use of Python software in Washington, DC, USA and surrounding areas.</h1>
-        </div>
+          <div class="col-md-4" style="background: #24261A; color: #e5e5e5; border-radius: 4px">
+                <h1>We promote and support the use of Python software in Washington, DC, USA and surrounding areas.</h1>
+          </div>
       </div>
 
       <div class="footer">
