@@ -46,7 +46,10 @@
         </ul>
       </div>
 
+      <br />
+
       <div class="row">
+
         <div class="col-lg-4 pitch">
 
                 <h2>Heading</h2>
@@ -71,8 +74,6 @@ Rapidiously leverage existing effective outsourcing before intermandated experti
 
         </div>
       </div>
-
-      <hr>
 
       <div class="footer">
         <p class="pull-left">&copy; ZPUGDC, Inc 2008-2013. All rights reserved.</p>
