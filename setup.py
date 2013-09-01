@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     entry_points={
-        'paste.app_factory': 'main=aclarknet:main',
+        'paste.app_factory': 'main=dcpython:main',
     },
     install_requires=[
         'deform',
@@ -11,6 +11,6 @@ setup(
         'pyramid',
         'waitress',
     ],
-    name='aclarknet',
+    name='dcpython',
     packages=find_packages(),
 )
