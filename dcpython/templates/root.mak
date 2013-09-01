@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <%block name="title">
-    <title>ACLARK.NET, LLC &mdash; Home</title>
+    <title>DC Python &mdash; Home</title>
     </%block>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
@@ -15,7 +15,7 @@
     <link href="/static/font-awesome.css" rel="stylesheet">
     <style type="text/css">
       body {
-        background: url(http://ec944bcf33b48b690862-191a9659b8fb7703d8bd848e1f8d96be.r38.cf1.rackcdn.com/IMG_0256.JPG) center top no-repeat #24261A;
+        background: url(static/robert-dcpython.jpg) center top no-repeat #24261A;
         padding-top: 20px;
         padding-bottom: 60px;
       }
