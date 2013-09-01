@@ -49,7 +49,7 @@
       <br />
       <br />
 
-      <div class="jumbotron pitch">
+      <div class="jumbotron">
         <h1>
             We promote and support the use of Python software in Washington, DC, USA and surrounding areas.
         </h1>
