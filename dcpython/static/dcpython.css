@@ -1,6 +1,9 @@
-.muted a {
-    color: #999999;
+.text-muted a {
+    color: #e5e5e5;
     text-decoration: none;
+    background: #24261A;
+    border-radius: 4px;
+    padding: 4px;
 }
 
 /* HT: http://bluerobot.com/web/css/center1.html */
@@ -34,4 +37,8 @@ textarea {
     background: #f9f9f9;
     border-top: none;
     padding-top: 0px;
+}
+
+.footer {
+    color: #e5e5e5;
 }
