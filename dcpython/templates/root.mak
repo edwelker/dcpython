@@ -134,6 +134,16 @@
                 <li class="active"><a href="#">Home</a></li>
                 </%block>
               </ul>
+
+              <span class="col-md-4">
+
+                Compellingly network corporate expertise before synergistic e-commerce. Dynamically revolutionize innovative technologies rather than sticky e-markets. Enthusiastically myocardinate cross functional customer service and standardized meta-services. 
+
+Objectively drive impactful internal or "organic" sources before holistic niches. Collaboratively incubate process-centric strategic theme areas and highly efficient information. Seamlessly drive professional schemas before tactical outsourcing.
+
+              </span>
+
+
             </div>
           </div>
         </div><!-- /.navbar -->
@@ -142,8 +152,8 @@
       <hr>
 
       <div class="footer">
-        <p class="pull-left">&copy; ACLARK.NET, LLC 2004-2013. All rights reserved.</p>
-        <p class="pull-right">Made with <a href="http://twitter.github.io/bootstrap">Bootstrap</a> and <a href="http://pylonsproject.org">Pyramid</a>. Icons by Font Awesome. Photo by <a href="http://about.me/alex.clark">Alex Clark</a>.</p>
+        <p class="pull-left">&copy; ZPUGDC, Inc 2008-2013. All rights reserved.</p>
+        <p class="pull-right">Made with <a href="http://twitter.github.io/bootstrap">Bootstrap</a> and <a href="http://pylonsproject.org">Pyramid</a>. Icons by Font Awesome. Photo by <a href="http://www.joshfinnie.com/">Josh Finnie</a>.</p>
 
         <br />
         <br />
