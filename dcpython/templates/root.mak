@@ -47,7 +47,7 @@
       <br />
 
       <div class="row">
-          <div class="col-md-offset-1 col-md-4" style="background: #24261A; color: #e5e5e5; border-radius: 4px; margin-bottom: 20em;">
+          <div class="col-md-4" style="background: #24261A; color: #e5e5e5; border-radius: 4px; margin-bottom: 20em;">
                 <h1>We promote and support the use of Python software in Washington, DC, USA and surrounding areas.</h1>
           </div>
       </div>
