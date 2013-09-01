@@ -25,37 +25,37 @@ def main(global_config, **settings):
     config.add_route('testimonials', '/testimonials')
     config.add_route('root', '/')
     config.add_static_view(
-        'static', 'aclarknet:static', cache_max_age=3600)
+        'static', 'dcpython:static', cache_max_age=3600)
     config.add_view(blog, route_name='blog')
     config.add_view(blog_entry, route_name='blog_entry')
     config.add_view(blog_slash, route_name='blog_slash')
     config.add_view(
         default,
-        renderer='aclarknet:templates/clients.mak',
+        renderer='dcpython:templates/clients.mak',
         route_name='clients')
     config.add_view(
         contact,
-        renderer='aclarknet:templates/contact.mak',
+        renderer='dcpython:templates/contact.mak',
         route_name='contact')
     config.add_view(
         default,
-        renderer='aclarknet:templates/projects.mak',
+        renderer='dcpython:templates/projects.mak',
         route_name='projects')
     config.add_view(
         default,
-        renderer='aclarknet:templates/root.mak',
+        renderer='dcpython:templates/root.mak',
         route_name='root')
     config.add_view(
         default,
-        renderer='aclarknet:templates/services.mak',
+        renderer='dcpython:templates/services.mak',
         route_name='services')
     config.add_view(
         default,
-        renderer='aclarknet:templates/testimonials.mak',
+        renderer='dcpython:templates/testimonials.mak',
         route_name='testimonials')
     config.add_view(
         default,
-        renderer='aclarknet:templates/team.mak',
+        renderer='dcpython:templates/team.mak',
         route_name='team')
     config.include(deform_bootstrap)
     return config.make_wsgi_app()
