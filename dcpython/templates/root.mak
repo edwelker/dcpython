@@ -49,24 +49,15 @@
       <br />
       <br />
 
-      <div class="row">
-
-        <div class="col-lg-6 pitch">
-
-                <h2>Mission</h2>
-
-                <p>
-
-                    We promote and support the use of Python software in Washington, DC, USA and surrounding areas.
-
-                </p>
-
-        </div>
-      </div>
+<div class="jumbotron">
+<h1>
+We promote and support the use of Python software in Washington, DC, USA and surrounding areas.
+</h1>
+</div>
 
       <div class="footer">
         <p class="pull-left">&copy; ZPUGDC, Inc 2008-2013. All rights reserved.</p>
-        <p class="pull-right">Made with <a href="http://twitter.github.io/bootstrap">Bootstrap</a> and <a href="http://pylonsproject.org">Pyramid</a>. Icons by Font Awesome. Photo by <a href="http://www.joshfinnie.com/">Josh Finnie</a>.</p>
+        <p class="pull-right">Made with <a href="http://twitter.github.io/bootstrap">Bootstrap</a> and <a href="http://pylonsproject.org">Pyramid</a>. Icons by Font Awesome. Photo by <a href="https://twitter.com/edwelker">Eddie Welker</a>.</p>
 
         <br />
         <br />
@@ -75,7 +66,7 @@
 
         <p style="text-align: center">
 
-<a href="https://twitter.com/aclarknet" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @aclarknet</a>
+<a href="https://twitter.com/dcpython" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @dcpython</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
         </p>
